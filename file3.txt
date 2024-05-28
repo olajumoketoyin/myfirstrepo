@@ -1,4 +1,6 @@
 This is file3!
 added a new line
 This line is added in my local repo
-
+am adding this on git repo
+practising practising
+Git is really beautiful
